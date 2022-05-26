@@ -26,7 +26,7 @@ class Solution
             }
         }
         
-        while(!st.empty())
+        if(!st.empty())
         {
             x+=st.top();
             st.pop();
