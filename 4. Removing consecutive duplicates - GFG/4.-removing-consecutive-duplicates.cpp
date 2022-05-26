@@ -14,19 +14,24 @@ class Solution
     {
         // Your code here
         stack<char> st;
+        string x="";
         st.push(s[0]);
         for(int i=1;i<s.length();i++)
         {
             if(s[i]!=st.top())
-            st.push(s[i]);
+            {
+                x+=st.top();
+                st.pop();
+                st.push(s[i]);
+            }
         }
-        string x="";
+        
         while(!st.empty())
         {
             x+=st.top();
             st.pop();
         }
-        reverse(x.begin(),x.end());
+       
         return x;
     }
 };
