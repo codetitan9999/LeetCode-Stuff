@@ -12,22 +12,22 @@ class Solution
     char nonrepeatingCharacter(string S)
     {
        //Your code here
-       int findex[256];
-       for(int i=0;i<256;i++)
+       int findex[26];
+       for(int i=0;i<26;i++)
        findex[i]=-1;
        for(int i=0;i<S.length();i++)
        {
-           if(findex[S[i]]==-1)
+           if(findex[S[i]-'a']==-1)
            {
-               findex[S[i]]=i;
+               findex[S[i]-'a']=i;
            }
            else
            {
-               findex[S[i]]=-2;
+               findex[S[i]-'a']=-2;
            }
        }
        int minim=INT_MAX;
-       for(int i=0;i<256;i++)
+       for(int i=0;i<26;i++)
        {
            if(findex[i]>=0)
            minim=min(minim,findex[i]);
