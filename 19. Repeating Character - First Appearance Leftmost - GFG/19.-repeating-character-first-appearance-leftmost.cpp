@@ -16,19 +16,24 @@ class Solution
     int repeatedCharacter (string s) 
     { 
         //Your code here
-        bool vis[256]={false};
-        int ans=-1;
-        for(int i=s.length()-1;i>=0;i--)
-        {
-            if(!vis[s[i]])
-            vis[s[i]]=true;
-            else
-            {
-                ans=i;
-            }
-            
-        }
-        return ans;
+        int bla=256;
+       int findex[256];
+      for(int i=0;i<256;i++)
+      findex[i]=-1;
+       int minim=INT_MAX;
+       for(int i=0;i<s.length();i++)
+       {
+           int f=findex[s[i]];
+           if(f==-1)
+           findex[s[i]]=i;
+           else
+           {
+               minim=min(minim,f);
+           }
+       }
+       if(minim==INT_MAX)
+       return -1;
+       return minim;
     } 
 };
 
