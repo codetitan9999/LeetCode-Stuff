@@ -1,13 +1,15 @@
 class Solution {
 public:
     int fun(vector<int> arr,int n) {
-        int mat[n+1];
-        mat[0]=arr[0];
-        mat[1]=arr[1];
+      int prev1=arr[0];
+      int prev2=arr[1];
         for(int i=2;i<=n;i++) {
-            mat[i]=arr[i]+ min(mat[i-1],mat[i-2]);
+           int curr=arr[i]+ min(prev1,prev2);
+            prev1=prev2;
+            prev2=curr;
 }
-        return mat[n];
+        return prev2;
+       
     }
     int minCostClimbingStairs(vector<int>& cost) {
         int n=cost.size();
