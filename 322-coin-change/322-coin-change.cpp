@@ -9,7 +9,7 @@ public:
         for(int j=0;j<=sum;j++) {
             mat[0][j]=INT_MAX-1;
         }
-        mat[0][0]=0;
+        
          
         // for(int j=1;j<=sum;j++) {
         //     if(j%arr[0]==0)
