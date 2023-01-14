@@ -25,6 +25,7 @@ public:
                 for(auto it : sonl) {
                     s.erase(it);
                 }
+                sonl.clear();
             }
             string x=vec.back();
             if(x==endWord) {
