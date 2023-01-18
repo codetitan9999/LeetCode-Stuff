@@ -70,7 +70,7 @@ class Solution {
                 cnt++;
             }
             else
-            ds.UnionByRank(u,v);
+            ds.UnionBySize(u,v);
         }
         int comp=0;
         for(int i=0;i<n;i++) {
