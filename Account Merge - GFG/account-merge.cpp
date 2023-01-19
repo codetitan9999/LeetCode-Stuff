@@ -60,43 +60,36 @@ class Solution{
   public:
     vector<vector<string>> accountsMerge(vector<vector<string>> &accounts) {
         // code here
+        vector<vector<string>> ans;
         int n=accounts.size();
         DisjointSet ds(n);
-        map<string,int> mp;
-        for(int i=0;i<accounts.size();i++) {
-            for(auto it : accounts[i]) {
-                if(it !=accounts[i][0]) {
-                if(mp.find(it)!=mp.end()) {
-                    ds.UnionBySize(mp[it],i);
-                } 
-                else
-                mp[it]=i;
-                
+        unordered_map<string,int> mp;
+        for(int i=0;i<n;i++) {
+            for(int j=1;j<accounts[i].size();j++) {
+                if(mp.find(accounts[i][j])==mp.end()) {
+                    mp[accounts[i][j]]=i;
+                }
+                else {
+                    ds.UnionBySize(mp[accounts[i][j]],i);
                 }
             }
         }
-        vector<string> t[n];
+        vector<string> temp[n];
         for(auto it : mp) {
-            t[ds.getParent(it.second)].push_back(it.first);
-            
+            temp[ds.getParent(it.second)].push_back(it.first);
         }
-        vector<vector<string>> ans;
         for(int i=0;i<n;i++) {
-            if(t[i].size()==0)
+            if(temp[i].size()==0)
             continue;
-            sort(t[i].begin(),t[i].end());
-            vector<string> temp;
-            temp.push_back(accounts[i][0]);
-            for(auto it : t[i])
-            temp.push_back(it);
-            ans.push_back(temp);
-            
+            sort(temp[i].begin(),temp[i].end());
+            vector<string> t;
+            t.push_back(accounts[i][0]);
+            for(auto it : temp[i]) {
+                t.push_back(it);
+            }
+            ans.push_back(t);
         }
         return ans;
-       
-        
-        
-        
         
     }
 };
