@@ -61,7 +61,23 @@ class DisjointSet {
 };
 class Solution {
   public:
- 
+    void dfs(int row,int col , vector<vector<int>> & vis, vector<vector<int>> & grid, DisjointSet & ds) {
+        int n=grid.size();
+        int m=grid[0].size();
+        vis[row][col]=1;
+        int dr[]={-1,0,1,0};
+        int dc[]={0,1,0,-1};
+         for(int k=0;k<4;k++) {
+            int r=row+dr[k];
+            int c=col+dc[k];
+            if(r>=0 && c>=0 && r<n && c<m &&grid[r][c]==1 && vis[r][c]!=1) {
+                    ds.UnionBySize(row*m+col, r*m+c); 
+                    dfs(r,c,vis,grid,ds);
+                }
+            }
+            
+        }
+        
 
     int MaxConnection(vector<vector<int>>& grid) {
         // code here
@@ -75,30 +91,17 @@ class Solution {
         int dr[]={-1,0,1,0};
         
         int dc[]={0,1,0,-1};
-        
-        int ans=1;
-        
+        vector<vector<int>> vis(n, vector<int> (m,0));
         for(int i=0;i<n;i++) {
-            
             for(int j=0;j<m;j++) {
-                
-                if(grid[i][j]==1) {
-                    
-                    for(int row=0;row<4;row++) {
-                        
-                        int di=i+dr[row];
-                        
-                        int dj=j+dc[row];
-                        
-                        if(di>=0 && dj>=0 && di<n && dj<m && grid[di][dj]==1) {
-                            
-                            ds.UnionBySize(i*m+j, di*m+dj);
-                            
-                        }
-                    }
+                if(vis[i][j]==0 && grid[i][j]==1) {
+                    dfs(i,j,vis,grid,ds);
                 }
             }
         }
+        int ans=1;
+        
+   
         
         for(int i=0;i<n;i++) {
             
