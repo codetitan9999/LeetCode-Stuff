@@ -79,7 +79,7 @@ class Solution {
         }
         int cnt=0;
         for(auto i : s) {
-            if(ds.getParent(i)==i && ds.size[ds.getParent(i)]>1) {
+            if(ds.getParent(i)==i) {
                 cnt++;
             }
         }
