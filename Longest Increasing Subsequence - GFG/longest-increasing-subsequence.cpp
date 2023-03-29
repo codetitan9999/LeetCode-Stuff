@@ -15,14 +15,12 @@ class Solution
         }
         if(dp[ind][par+1] !=-1)
         return dp[ind][par+1];
-        int ans = 0;
+        int take = 0 ,notake =0;
         if(par == -1 || arr[ind] > arr[par]) {
-            ans = max(1 + fun(ind+1, ind , arr ,n , dp) , fun(ind+1 , par , arr, n , dp));
+            take= 1+ fun(ind+1, ind, arr, n , dp);
         }
-        else {
-            ans = 0 +fun(ind+1 , par , arr, n , dp);
-        }
-        return  dp[ind][par+1] =ans;
+        notake = 0 + fun(ind+1, par, arr, n, dp);
+        return dp[ind][par+1] = max(take,notake);
         
     }
     int longestSubsequence(int n, int a[])
