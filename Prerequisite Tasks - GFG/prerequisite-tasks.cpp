@@ -38,7 +38,7 @@ public:
 	    for(auto it : prerequisites) {
 	        int u = it.first;
 	        int v = it.second;
-	        adj[u].push_back(v);
+	        adj[v].push_back(u);
 	    }
 	    return topo(adj , N);
 	}
