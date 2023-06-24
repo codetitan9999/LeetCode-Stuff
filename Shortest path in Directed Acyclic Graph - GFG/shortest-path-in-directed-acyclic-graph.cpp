@@ -8,52 +8,55 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-     void topo(int node, stack<int> &st,vector<int> & vis, vector<pair<int,int>> adj[]) {
-         vis[node]=1;
-         for(auto it: adj[node] ) {
-             int c=it.first;
-             if(!vis[c]) {
-                 topo(c,st,vis,adj);
-             }
-         }
-         st.push(node);
-     }
-     vector<int> shortestPath(int N,int M, vector<vector<int>>& edges){
-        // code here
-        vector<pair<int,int>> adj[N];
-        for(int i=0;i<M;i++) {
-            int u=edges[i][0];
-            int v=edges[i][1];
-            int wt=edges[i][2];
-            adj[u].push_back({v,wt});
-        }
-        stack<int> st;
-        vector<int> vis(N,0);
-        for(int i=0;i<N;i++) {
-            if(!vis[i]) {
-                topo(i,st,vis,adj);
+    void dfs(int node , stack<int> & st , vector<int> & vis , vector<pair<int,int>> adj[]) {
+        vis[node] = 1;
+        for(auto it : adj[node]) {
+            if(!vis[it.first]) {
+                dfs(it.first , st , vis , adj);
             }
         }
-        vector<int> dis(N, 1e9);
-        dis[0]=0;
+        st.push(node);
+    }
+     vector<int> shortestPath(int N,int M, vector<vector<int>>& edges){
+       // code here
+        vector<pair<int,int>> adj[N];
+        stack<int> st;
+        for(auto it : edges) {
+            int u = it[0];
+            int v = it[1];
+            int wt = it[2];
+            adj[u].push_back({v,wt});
+        }
+        vector<int> vis(N , 0);
+        for(int i = 0 ; i < N ; i++) {
+            if(!vis[i]) {
+                dfs(i , st , vis , adj);
+            }
+        }
+
+        vector<int> ans(N, 1e9);
+        ans[0] = 0;
         while(!st.empty()) {
-            int node=st.top();
+            int node = st.top();
             st.pop();
             for(auto it : adj[node]) {
-                int c=it.first;
-                int d=it.second;
-                if(dis[node]+d < dis[c]) {
-                    dis[c]=dis[node]+d;
+                int child = it.first;
+                int d = it.second;
+                if(d+ ans[node] < ans[child]) {
+                    ans[child] = d + ans[node];
                 }
             }
         }
-        for(int i=0;i<N;i++) {
-            if(dis[i]==1e9) {
-                dis[i]=-1;
+        for(int i = 0 ;i < N ; i++) {
+            if(ans[i] == 1e9) {
+                ans[i] = -1;
             }
+            
         }
         
-        return dis;
+        return ans;
+        
+        
     }
 };
 
