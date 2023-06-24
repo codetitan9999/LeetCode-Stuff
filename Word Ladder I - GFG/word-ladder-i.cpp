@@ -7,28 +7,30 @@ class Solution {
 public:
     int wordLadderLength(string startWord, string targetWord, vector<string>& wordList) {
         // Code here
+        unordered_set<string> st;
+        for(auto it : wordList) {
+            st.insert(it);
+        }
+        st.erase(startWord);
         queue<pair<string,int>> q;
-        unordered_set<string> s(wordList.begin(),wordList.end());
-        q.push({startWord,1});
-        s.erase(startWord);
+        q.push({startWord,0});
+        
         while(!q.empty()) {
-            string x=q.front().first;
-            int val=q.front().second;
+            string str = q.front().first;
+            int steps = q.front().second;
+            if(str == targetWord)
+            return steps+1;
+            st.erase(str);
             q.pop();
-            string temp=x;
-            if(x==targetWord)
-            return val;
-            for(int i=0;i<x.length();i++) {
-                
-                for(char ch='a';ch<='z';ch++) {
-                    
-                    x[i]=ch;
-                    if(s.find(x)!=s.end()) {
-                        q.push({x,val+1});
-                        s.erase(x);
+            for(int i = 0 ; i < str.length() ; i++) {
+                for(char x ='a' ; x <= 'z' ; x++) {
+                    char prev = str[i];
+                    str[i] = x;
+                    if(st.find(str) != st.end()) {
+                        q.push({str, steps+1});
                     }
+                    str[i] = prev;
                 }
-                x=temp;
             }
             
         }
