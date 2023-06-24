@@ -8,35 +8,39 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-    vector<int> shortestPath(vector<vector<int>>& edges, int N,int M, int src){
-        // code here
-        vector<int> dist(N,1e9);
-        vector<int> adj[N];
-        for(int i=0;i<M;i++) {
-            int u=edges[i][0];
-            int v=edges[i][1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-        dist[src]=0;
-        queue<pair<int,int>> q;
-        q.push({src,0});
+    void fun(vector<int> adj[] , int N , int src , vector<int> & dist) 
+    {
+        queue<int> q;
+        q.push(src);
+        dist[src] = 0;
         while(!q.empty()) {
-            int node=q.front().first;
-            int d=q.front().second;
+            int node = q.front();
             q.pop();
             for(auto it : adj[node]) {
-                if(dist[it]>1+d) {
-                    dist[it]=1+d;
-                    q.push({it,1+d});
+                if(dist[it]> dist[node] + 1) {
+                    dist[it] = dist[node] + 1;
+                    q.push(it);
                 }
             }
         }
-        for(int i=0;i<N;i++) 
-        if(dist[i]==1e9)
-        dist[i]=-1;
+    }
+    vector<int> shortestPath(vector<vector<int>>& edges, int N,int M, int src){
+        // code here
+        vector<int> adj[N];
+        for(auto it : edges) {
+            int u = it[0];
+            int v = it[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+        vector<int> dist(N , 1e9);
+        fun(adj, N , src , dist);
+        for(int i = 0 ; i < N ; i++) {
+            if(dist[i] == 1e9) {
+                dist[i] = -1;
+            }
+        }
         return dist;
-        
     }
 };
 
