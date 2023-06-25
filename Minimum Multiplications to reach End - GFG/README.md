@@ -25,7 +25,7 @@ start = 7, end = 66175
 4
 <strong>Explanation:</strong>
 Step 1: 7*3 = 21 % 100000 = 21&nbsp;
-Step 2: 21*3 = 6 % 100000 = 63&nbsp;
+Step 2: 21*3 = 63 % 100000 = 63&nbsp;
 Step 3: 63*65 = 4095 % 100000 = 4095&nbsp;
 Step 4: 4095*65 = 266175 % 100000 = 66175
 </span></pre>
@@ -43,6 +43,6 @@ Step 4: 4095*65 = 266175 % 100000 = 66175
 <ul>
 	<li><span style="font-size:18px">1 &lt;= n and n &lt;= 10<sup>4</sup></span></li>
 	<li><span style="font-size:18px">1 &lt;= arr[i] and arr[i] &lt;= 10<sup>4</sup></span></li>
-	<li><span style="font-size:18px">1 &lt;= start, end &lt;= 10<sup>5</sup></span></li>
+	<li><span style="font-size:18px">1 &lt;= start, end &lt;&nbsp;10<sup>5</sup></span></li>
 </ul>
 </div>
