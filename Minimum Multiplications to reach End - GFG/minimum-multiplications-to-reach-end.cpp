@@ -12,29 +12,25 @@ class Solution {
   public:
     int minimumMultiplications(vector<int>& arr, int start, int end) {
         // code here
+        vector<int> dist(1e5  , 1e9);
         queue<pair<int,int>> q;
-        q.push({0,start});
-        vector<int> dist(100000,1e9);
-        dist[start]=0;
+        q.push({start ,0});
+        
         while(!q.empty()) {
-          int node=(q.front().second)%100000;
-          int steps=q.front().first;
-          q.pop();
-          if(node==end)
-          return steps;
-          for(int i=0;i<arr.size();i++) {
-             int newdist=(node)*arr[i];
-             newdist=newdist%100000;
-             if(steps+1<dist[newdist]) {
-                 dist[newdist]=steps+1;
-                 q.push({steps+1,newdist});
-             }
-          }
-          
+            int node = q.front().first;
+            int steps = q.front().second;
+            q.pop();
+            for(auto it : arr) {
+                int adjnode = (node*it)%100000;
+                if(adjnode == end)
+                return steps + 1;
+                if(dist[adjnode] > steps + 1) {
+                    q.push({adjnode , steps+1});
+                    dist[adjnode] = steps+1;
+                }
+            }
         }
-        if(dist[end]==1e9)
         return -1;
-        return dist[end];
     }
 };
 
