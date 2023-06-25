@@ -4,47 +4,45 @@ using namespace std;
 
 // } Driver Code Ends
 // User function Template for C++
-
+typedef long long ll;
 class Solution {
   public:
-    int countPaths(int n, vector<vector<int>>& roads) {
+    ll countPaths(int n, vector<vector<int>>& roads) {
         // code here
-        int mod=1e9+7;
-        vector<pair<int,int>> adj[n];
+        vector<pair<ll,ll>> adj[n];
         for(auto it : roads) {
-            adj[it[0]].push_back({it[1],it[2]});
-            adj[it[1]].push_back({it[0],it[2]});
+            ll u = it[0];
+            ll v = it[1];
+            ll wt = it[2];
+            adj[u].push_back({v,wt});
+            adj[v].push_back({u , wt});
         }
-        vector<int> ways(n,0);
-        ways[0]=1;
-        vector<int> dist(n,1e9);
-        dist[0]=0;
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({0,0});
-        while(!pq.empty()) {
-            int node=pq.top().second;
-            int d=pq.top().first;
-            
-            pq.pop();
-            if(node==n-1) {
-                return (ways[n-1]%mod);
-            }
+        ll mod = 1e9+7;
+        vector<ll> dist(n , 1e18);
+        vector<ll> ways(n , 0);
+        ways[0] = 1;
+        dist[0] = 0;
+        set<pair<ll,ll>> st;
+        st.insert({0 , 0});
+        while(!st.empty()) {
+            ll node = (*st.begin()).second;
+            ll d = (*st.begin()).first;
+            st.erase({d,node});
             for(auto it : adj[node]) {
-                int adjnode=it.first;
-                int weight=it.second;
-                if(weight+dist[node]<=dist[adjnode]) {
-                    if(weight+dist[node]==dist[adjnode]) {
-                        ways[adjnode]+=(ways[node])%mod;
-                    }
-                    else {
-                        dist[adjnode]=weight+dist[node];
-                        ways[adjnode]=(ways[node])%mod;
-                        pq.push({dist[adjnode],adjnode});
-                    }
+                ll adjNode = it.first;
+                ll adjDist = it.second;
+                if(dist[adjNode] > d + adjDist) {
+                    ways[adjNode] = ways[node];
+                    dist[adjNode] = d + adjDist;
+                    st.insert({dist[adjNode] , adjNode});
+                    
+                }
+                else if(dist[adjNode] == d + adjDist) {
+                    ways[adjNode]= (ways[adjNode] + ways[node])%mod;
                 }
             }
         }
-        return 0;
+        return ways[n-1]%mod;
     }
 };
 
