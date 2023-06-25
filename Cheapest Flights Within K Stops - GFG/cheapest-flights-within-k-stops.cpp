@@ -14,14 +14,14 @@ class Solution {
             int c = it[2];
             adj[u].push_back({v ,c});
         }
-        priority_queue<pair<int,pair<int,int>> , vector<pair<int,pair<int,int>>>  , greater<pair<int,pair<int,int>>>> pq;
+        queue<pair<int , pair<int,int>>> pq;
         vector<int> dist(n , 1e9);
         pq.push({0 , {src , 0}});
         dist[src] = 0;
         while(!pq.empty()) {
-            int stops = pq.top().first;
-            int node = pq.top().second.first;
-            int cost = pq.top().second.second;
+            int stops = pq.front().first;
+            int node = pq.front().second.first;
+            int cost = pq.front().second.second;
             pq.pop();
             if(stops > K) {
                 continue;
