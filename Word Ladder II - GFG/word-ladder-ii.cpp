@@ -11,47 +11,49 @@ public:
     vector<vector<string>> findSequences(string beginWord, string endWord, vector<string>& wordList) {
         // code here
         vector<vector<string>> ans;
-        unordered_set<string> s(wordList.begin(),wordList.end());
         queue<vector<string>> q;
+        vector<string> usedOnLevel;
+        
         q.push({beginWord});
-        int level=0;
-        vector<string> sonl;
-        sonl.push_back(beginWord);
+        usedOnLevel.push_back(beginWord);
+        unordered_set<string> st(wordList.begin() , wordList.end());
+        int level = 0;
         while(!q.empty()) {
-            vector<string> vec=q.front();
+            vector<string> vec = q.front();
             q.pop();
-            if(level<vec.size()) {
+            if(vec.size() > level) {
+                for(auto it : usedOnLevel) {
+                    st.erase(it);
+                }
+                usedOnLevel.clear();
                 level++;
-                for(auto it : sonl) {
-                    s.erase(it);
-                }
-                sonl.clear();
             }
-            string x=vec.back();
-            if(x==endWord) {
-                if(ans.size()==0) {
+            string word = vec.back();
+            if(word == endWord) {
+                if(ans.size() == 0 || ans[0].size() == vec.size()) {
                     ans.push_back(vec);
                 }
-                else if(ans[0].size()==vec.size()) {
-                    ans.push_back(vec);
-                }
+                
             }
-            string temp=x;
-            for(int i=0;i<x.length();i++) {
-            
-                for(int ch='a';ch<='z';ch++) {
-                    x[i]=ch;
-                    if(s.find(x)!=s.end()) {
-                        vec.push_back(x);
+            for(int i = 0 ; i < word.size() ; i++) {
+                char prev = word[i];
+                for(char ch = 'a' ; ch <= 'z' ; ch++) {
+                    word[i] = ch;
+                    if(st.find(word) != st.end()) {
+                        vec.push_back(word);
                         q.push(vec);
-                        sonl.push_back(x);
+                        usedOnLevel.push_back(word);
                         vec.pop_back();
                     }
-                    x=temp;
+                    word[i] = prev;
                 }
             }
+      
+            
+            
+            
         }
-        return ans;
+              return ans;
     }
 };
 
