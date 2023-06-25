@@ -7,42 +7,52 @@ class Solution {
   public:
     vector<int> shortestPath(int n, int m, vector<vector<int>>& edges) {
         // Code here
-        vector<int> ans;
-        vector<int> parents(n+1);
         vector<pair<int,int>> adj[n+1];
         for(auto it : edges) {
-            adj[it[0]].push_back({it[1],it[2]});
-            adj[it[1]].push_back({it[0],it[2]});
+            int u = it[0];
+            int v = it[1];
+            int wt = it[2];
+            adj[u].push_back({v , wt});
+            adj[v].push_back({u , wt});
         }
-        for(int i=1;i<n+1;i++)
-            parents[i]=i;
-        vector<int> dist(n+1,1e9);
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({0,1});
-        dist[1]=0;
-        while(!pq.empty()) {
-            int node=pq.top().second;
-            int d=pq.top().first;
-            pq.pop();
+        vector<int> dist(n+1 , 1e9);
+        vector<int> par(n+1);
+        for(int i = 0 ; i < par.size() ; i++) {
+            par[i] = i;
+        }
+        set<pair<int,int>> st;
+        st.insert({0 , 1});
+        dist[1] = 0;
+        while(!st.empty()) {
+            auto it = *st.begin();
+            int node = it.second;
+            int dis = it.first;
+            st.erase({dis , node});
             for(auto it : adj[node]) {
-                int adjNode=it.first;
-                int adjDis=it.second;
-                if(adjDis+d<dist[adjNode]) {
-                    dist[adjNode]=adjDis+d;
-                    pq.push({dist[adjNode],adjNode});
-                    parents[adjNode]=node;
+                int adjNode = it.first;
+                int adjDist = it.second;
+                if(dist[adjNode] > dist[node] + adjDist) {
+                    if(dist[adjNode] != 1e9) {
+                        st.erase({dist[adjNode] , adjNode});
+                    }
+                    dist[adjNode] = dist[node] + adjDist;
+                    st.insert({dist[adjNode] , adjNode});
+                    par[adjNode] = node;
                 }
             }
         }
-        if(dist[n]==1e9) return {-1};
-        int node=n;
-        while(parents[node]!=node) {
+        if(dist[n] == 1e9)
+        return {-1};
+        vector<int> ans;
+        int node = n;
+        while(par[node] != node) {
             ans.push_back(node);
-            node=parents[node];
+            node = par[node];
         }
         ans.push_back(1);
-        reverse(ans.begin(),ans.end());
+        reverse(ans.begin() , ans.end());
         return ans;
+        
     }
 };
 
