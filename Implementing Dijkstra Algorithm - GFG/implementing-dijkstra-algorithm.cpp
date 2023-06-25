@@ -14,18 +14,18 @@ class Solution
         vector<int> dist(V , 1e9);
         dist[S] = 0;
         priority_queue<pair<int,int> , vector<pair<int,int>> , greater<pair<int,int>>> pq;
-        pq.push({ S , 0 });
+        pq.push({0 , S });
         
         while(!pq.empty()) {
-            int node = pq.top().first;
-            int d = pq.top().second;
+            int node = pq.top().second;
+            int d = pq.top().first;
             pq.pop();
             for(auto it : adj[node]) {
                 int adNode = it[0];
                 int adDist = it[1];
                 if(dist[node] + adDist < dist[adNode]) {
                     dist[adNode] = dist[node] + adDist;
-                    pq.push({adNode , dist[adNode]});
+                    pq.push({dist[adNode] , adNode});
                 }
             }
         }
