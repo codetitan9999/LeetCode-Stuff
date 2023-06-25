@@ -32,6 +32,9 @@ class Solution {
                 ll adjNode = it.first;
                 ll adjDist = it.second;
                 if(dist[adjNode] > d + adjDist) {
+                    if(dist[adjNode] != 1e18) {
+                        st.erase({dist[adjNode] , adjNode});
+                    }
                     ways[adjNode] = ways[node];
                     dist[adjNode] = d + adjDist;
                     st.insert({dist[adjNode] , adjNode});
