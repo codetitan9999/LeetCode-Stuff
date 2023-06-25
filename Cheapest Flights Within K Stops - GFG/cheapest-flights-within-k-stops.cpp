@@ -9,31 +9,37 @@ class Solution {
         // Code here
         vector<pair<int,int>> adj[n];
         for(auto it : flights) {
-            adj[it[0]].push_back({it[1],it[2]});
+            int u = it[0];
+            int v = it[1];
+            int c = it[2];
+            adj[u].push_back({v ,c});
         }
-        queue<pair<int,pair<int,int>>> q;
-        vector<int> dist(n,1e9);
-        q.push({0,{src,0}});
-        dist[src]=0;
-        while(!q.empty()) {
-            auto it =q.front();
-            q.pop();
-            int node=it.second.first;
-            int d=it.second.second;
-            int steps=it.first;
-            if(steps>K)
-            continue;
-            for(auto bt: adj[node]) {
-                if(d+bt.second<dist[bt.first] && steps<=K) {
-                    dist[bt.first]=d+bt.second;
-                    q.push({steps+1,{bt.first,dist[bt.first]}});
-                    
+        priority_queue<pair<int,pair<int,int>> , vector<pair<int,pair<int,int>>>  , greater<pair<int,pair<int,int>>>> pq;
+        vector<int> dist(n , 1e9);
+        pq.push({0 , {src , 0}});
+        dist[src] = 0;
+        while(!pq.empty()) {
+            int stops = pq.top().first;
+            int node = pq.top().second.first;
+            int cost = pq.top().second.second;
+            pq.pop();
+            if(stops > K) {
+                continue;
+            }
+            for(auto it : adj[node]) {
+                int adjNode = it.first;
+                int c = it.second;
+                if(dist[adjNode] > c + cost && stops <= K) {
+                    dist[adjNode] = c + cost;
+                    pq.push({stops + 1 , {adjNode , dist[adjNode]}});
                 }
+                
             }
         }
-        if(dist[dst]==1e9)
+        if(dist[dst] == 1e9)
         return -1;
         return dist[dst];
+        
     }
 };
 
