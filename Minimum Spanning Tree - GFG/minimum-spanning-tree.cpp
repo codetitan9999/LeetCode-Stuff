@@ -72,7 +72,7 @@ class Solution
             int v = it.second.second;
             int wt = it.first;
             if(ds.findUPar(u) != ds.findUPar(v)) {
-                ds.unionBySize(u,v);
+                ds.unionByRank(u,v);
                 ans += wt; 
             }
             
