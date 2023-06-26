@@ -8,35 +8,44 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-    int findCity(int n, int m, vector<vector<int>>& edges,int distanceThreshold) {
-        vector<vector<int>> adj(n,vector<int> (n,1e9));
+    int findCity(int n, int m, vector<vector<int>>& edges, int distanceThreshold) {
+        vector<vector<int>> adj (n , vector<int> (n , -1));
         for(auto it : edges) {
-            adj[it[0]][it[1]]=it[2];
-            adj[it[1]][it[0]]=it[2];
+            int u = it[0];
+            int v = it[1];
+            int wt = it[2];
+            adj[u][v] = wt;
+            adj[v][u] = wt;
         }
-        for(int i=0;i<n;i++) {
-          
-                adj[i][i]=0;
-        }  
-        for(int k=0;k<n;k++) {
-            for(int i=0;i<n;i++) {
-                for(int j=0;j<n;j++) {
-                    adj[i][j]=min(adj[i][j],adj[i][k]+adj[k][j]);
+        for(int i = 0 ; i < n ; i++) {
+            for(int j = 0 ; j < n ; j++) {
+                if(adj[i][j] == -1) {
+                    adj[i][j] = 1e8;
+                }
+                if(i == j) {
+                    adj[i][j] = 0;
                 }
             }
         }
-        int ans=-1;
-        int citymax=n+1;
-        for(int i=0;i<n;i++) {
-            int cnt=0;
-            for(int j=0;j<n;j++) {
-                if(adj[i][j]<=distanceThreshold) {
+        for(int k = 0 ; k < n ; k++) {
+            for(int i = 0 ; i < n ; i++) {
+                for(int j = 0 ; j < n ; j++) {
+                    adj[i][j] = min(adj[i][j] , adj[i][k] + adj[k][j]);
+                }
+            }
+        }
+        int ans = -1;
+        int maxCount = n;
+        for(int i = 0 ; i < n ; i++) {
+            int cnt = 0;
+            for(int j = 0 ; j < n ; j++) {
+                if(adj[i][j] <= distanceThreshold) {
                     cnt++;
                 }
             }
-            if(cnt<=citymax) {
-                citymax=cnt;
-                ans=i;
+            if(cnt <= maxCount) {
+                maxCount = cnt;
+                ans = i;
             }
         }
         return ans;
