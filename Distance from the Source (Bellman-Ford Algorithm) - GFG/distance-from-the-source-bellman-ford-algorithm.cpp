@@ -16,24 +16,25 @@ class Solution {
         // Code here
         vector<int> dist(V , 1e8);
         dist[S] = 0;
+        vector<pair<int,int>> adj[V];
+        for(auto it : edges) {
+            adj[it[0]].push_back({it[1] , it[2]});
+        }
         for(int i = 0 ; i < V-1 ; i++) {
-            for(auto it : edges) {
-                int u = it[0];
-                int v = it[1];
-                int wt = it[2];
-                if(dist[u]!=1e8 && dist[u]+ wt < dist[v]) {
-                    dist[v] = dist[u] + wt;
+            for(int node = 0 ; node < V ; node++) {
+                for(auto it : adj[node]) {
+                    if(dist[node]!=1e8 && dist[it.first] > dist[node] + it.second ) {
+                        dist[it.first] = dist[node] + it.second;
+                    }
                 }
             }
         }
-        for(auto it : edges) {
-            int u = it[0];
-            int v = it[1];
-            int wt = it[2];
-            if(dist[u]!=1e8 && dist[u]+ wt < dist[v]) {
-                return {-1};
-                
-            }
+        for(int node = 0 ; node < V ; node++) {
+                for(auto it : adj[node]) {
+                    if(dist[node]!=1e8 && dist[it.first] > dist[node] + it.second ) {
+                        return {-1};
+                    }
+                }
         }
         return dist;
         
