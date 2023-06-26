@@ -3,90 +3,40 @@
 using namespace std;
 
 // } Driver Code Ends
-
-class DisjointSet {
-    vector<int> rank,size,parent;
-    public:
-    DisjointSet(int n) {
-        rank.resize(n+1,0);
-        size.resize(n+1,1);
-        parent.resize(n+1);
-        for(int i=0;i<=n;i++)
-        parent[i]=i;
-    }
-    int getParent(int u) {
-        if(parent[u]==u)
-            return u;
-        return parent[u]=getParent(parent[u]);
-    }
-    void UnionByRank(int u, int v){
-        int ulp_u=getParent(u);
-        int ulp_v=getParent(v);
-        if(ulp_u==ulp_v)
-            return ;
-        if(rank[ulp_u]<rank[ulp_v]) {
-            parent[ulp_u]=ulp_v;
-            
-        }
-        else if(rank[ulp_v]<rank[ulp_u]) {
-            parent[ulp_v]=ulp_u;
-        }
-        else {
-            parent[ulp_v]=ulp_u;
-            rank[ulp_u]++;
-        }
-        
-    }
-    void UnionBySize(int u, int v) {
-        int ulp_u=getParent(u);
-        int ulp_v=getParent(v);
-        if(ulp_u==ulp_v)
-            return ;
-        if(size[ulp_v]<size[ulp_u]) {
-            parent[ulp_v]=ulp_u;
-            size[ulp_u]+=size[ulp_v];
-        }
-        else  {
-            parent[ulp_u]=ulp_v;
-            size[ulp_v]+=size[ulp_u];
-           
-        }
-        
-    }
-    
-};
-
 class Solution
 {
 	public:
 	//Function to find sum of weights of edges of the Minimum Spanning Tree.
-	
     int spanningTree(int V, vector<vector<int>> adj[])
     {
         // code here
-        DisjointSet ds(V);
-        int ans=0;
-        vector<pair<int,pair<int,int>>> edges;
-        for(int i=0;i<V;i++) {
-            for(auto it : adj[i]) {
-                edges.push_back({it[1],{i,it[0]}});
-                
-        }
-        }
-        sort(edges.begin(),edges.end());
-        for(auto it : edges) {
-            int dist=it.first;
-            int u=it.second.first;
-            int v=it.second.second;
-           
-            if(ds.getParent(u)!=ds.getParent(v)) {
-                ans+=dist;
-                ds.UnionByRank(u,v);
+        vector<pair<int,int>> vp;
+
+
+        priority_queue<pair<int, pair<int,int>> , vector<pair<int, pair<int,int>>> , greater<pair<int, pair<int,int>>>> pq;
+        vector<int> vis(V , 0);
+        int ans = 0;
+        pq.push({0 , {0 , -1}});
+        while(!pq.empty()) {
+            int dist = pq.top().first;
+            int node = pq.top().second.first;
+            int par = pq.top().second.second;
+            pq.pop();
+            if(vis[node] == 1)
+            continue;
+            vis[node] = 1;
+            if(par != -1) {
+                vp.push_back({par , node});
+            }
+            ans += dist;
+
+            for(auto it : adj[node]) {
+                int adjNode = it[0];
+                int adjDist = it[1];
+                pq.push({adjDist , { adjNode , node}});
             }
         }
         return ans;
-        
-        
     }
 };
 
