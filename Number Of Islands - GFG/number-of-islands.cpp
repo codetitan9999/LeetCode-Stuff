@@ -7,84 +7,82 @@ using namespace std;
 // } Driver Code Ends
 // User function Template for C++
 class DisjointSet {
-    vector<int> rank,size,parent;
     public:
+    vector<int> parent,rank , size;
     DisjointSet(int n) {
-        rank.resize(n+1,0);
-        size.resize(n+1,1);
         parent.resize(n+1);
-        for(int i=0;i<=n;i++)
-        parent[i]=i;
+        rank.resize(n+1 , 0);
+        size.resize(n+1 , 1);
+        for(int i = 0 ; i <=n ; i++)
+        parent[i] = i;
     }
-    int getParent(int u) {
-        if(parent[u]==u)
-            return u;
-        return parent[u]=getParent(parent[u]);
+    int findUPar(int u) {
+        if(parent[u] == u)
+        return u;
+        return parent[u] = findUPar(parent[u]);
     }
-    void UnionByRank(int u, int v){
-        int ulp_u=getParent(u);
-        int ulp_v=getParent(v);
-        if(ulp_u==ulp_v)
-            return ;
-        if(rank[ulp_u]<rank[ulp_v]) {
-            parent[ulp_u]=ulp_v;
-            
-        }
-        else if(rank[ulp_v]<rank[ulp_u]) {
-            parent[ulp_v]=ulp_u;
+    void unionBySize(int u , int v) {
+        int ult_par_u = findUPar(u);
+        int ult_par_v = findUPar(v);
+        if(ult_par_u ==  ult_par_v)
+        return;
+        if(size[ult_par_u] < size[ult_par_v]) {
+            parent[ult_par_u] = ult_par_v;
+            size[ult_par_v]+=size[ult_par_u];
         }
         else {
-            parent[ulp_v]=ulp_u;
-            rank[ulp_u]++;
-        }
-        
+            parent[ult_par_v] = ult_par_u;
+            size[ult_par_u]+= size[ult_par_v];
+        } 
     }
-    void UnionBySize(int u, int v) {
-        int ulp_u=getParent(u);
-        int ulp_v=getParent(v);
-        if(ulp_u==ulp_v)
-            return ;
-        if(size[ulp_v]<size[ulp_u]) {
-            parent[ulp_v]=ulp_u;
-            size[ulp_u]+=size[ulp_v];
+    void unionByRank(int u , int v) {
+        int ult_par_u = findUPar(u);
+        int ult_par_v = findUPar(v);
+        if(ult_par_u ==  ult_par_v)
+        return;
+        if(rank[ult_par_u] < rank[ult_par_v]) {
+            parent[ult_par_u] = ult_par_v;
         }
-        else  {
-            parent[ulp_u]=ulp_v;
-            size[ulp_v]+=size[ulp_u];
-           
+        else if(rank[ult_par_u] > rank[ult_par_v]){
+            parent[ult_par_v] = ult_par_u;
+
         }
-        
+        else {
+            rank[ult_par_u]++;
+            parent[ult_par_v] = ult_par_u;
+        } 
     }
-    
 };
 class Solution {
   public:
     vector<int> numOfIslands(int n, int m, vector<vector<int>> &operators) {
         // code here
+        vector<vector<int>> mat(n , vector<int> (m , 0));
         DisjointSet ds(n*m);
-        int count=0;
-        int drow[]={-1,0,+1,0};
-        int dcol[]={0,+1,0,-1};
+        int delrow[] ={0 , -1 , 0 , 1};
+        int delcol[] = {1 , 0 , -1 , 0};
         vector<int> ans;
-        vector<vector<int>> vis(n,vector<int> (m,0));
+        int cnt = 0 ;
         for(auto it : operators) {
-            int u=it[0];
-            int v=it[1];
-            if(vis[u][v]!=1) {
-                count++;
-                vis[u][v]=1;
-                for(int i=0;i<4;i++) {
-                    int row=u+drow[i];
-                    int col=v+dcol[i];
-                    if(row>=0 && row<n && col<m && col>=0) {
-                        if(vis[row][col]==1 && ds.getParent(row*m+col)!=ds.getParent(u*m+v)) {
-                            ds.UnionBySize(u*m+v,row*m+col);
-                            count--;
-                        }
-                    }
+            int u =it[0];
+            int v = it[1];
+            if(mat[u][v] == 1) {
+            ans.push_back(cnt);
+            continue;
+            }
+            mat[u][v] = 1;
+            int nodeNum = u*m + v;
+            cnt++;
+            for(int i = 0 ; i < 4 ; i++) {
+                int drow = u + delrow[i];
+                int dcol = v + delcol[i];
+                int adjNode = drow*m + dcol;
+                if(drow>=0 && dcol >=0 && drow < n && dcol<m && mat[drow][dcol] == 1 && ds.findUPar(adjNode) != ds.findUPar(nodeNum)) {
+                    cnt--;
+                    ds.unionBySize(adjNode , nodeNum);
                 }
             }
-            ans.push_back(count);
+            ans.push_back(cnt);
         }
         return ans;
     }
