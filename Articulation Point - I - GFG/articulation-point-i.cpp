@@ -9,50 +9,51 @@ using namespace std;
 
 class Solution {
   public:
-    int timer=1;
-    void dfs(int node,int parent, vector<int> adj[],vector<int>& vis, vector<int> & marked,int low[],int tin[]) {
-        vis[node]=1;
-        int child=0;
-        low[node]=tin[node]=timer;
-        timer++;
+    int timer = 1;
+    void dfs(int node , int parent , vector<int> & vis , vector<int> adj[] , vector<int> &tin , vector<int> & low , vector<int> & mark) {
+        tin[node] = low[node] = timer++;
+        vis[node] =1;
+        int child = 0 ;
         for(auto it : adj[node]) {
-            if(it==parent) continue;
+            if(it == parent) continue;
             if(!vis[it]) {
-                dfs(it,node,adj,vis,marked,low,tin);
-                low[node]=min(low[node],low[it]);
-                if(low[it] >=tin[node] && parent!=-1) {
-                    marked[node]=1;
+                dfs(it , node , vis , adj , tin , low, mark);
+                low[node] = min(low[node] , low[it]);
+                if(low[it] >= tin[node] && parent != -1) {
+                    mark[node] = 1;
                 }
                 child++;
+            }   
+            else {
+                low[node] = min(low[node] , tin[it]);
             }
-            else 
-            {
-                low[node]=min(tin[it],low[node]);
-            }
+        
+        }
+        if(child>1 && parent == -1) {
+            mark[node] = 1;
         }
         
-        if(parent==-1 && child>1) {
-            marked[node]=1;
-        }
     }
     vector<int> articulationPoints(int V, vector<int>adj[]) {
         // Code here
-        vector<int> marked(V,0);
-        vector<int> vis(V, 0);
-        int low[V],tin[V];
-        for(int i=0;i<V;i++) {
+        vector<int> vis(V , 0);
+        vector<int> tin(V , 1e9);
+        vector<int> low(V , 1e9);
+        vector<int> mark(V , 0);
+        vector<int> ans;
+        for(int i = 0 ; i < V ; i++) {
             if(!vis[i]) {
-                dfs(i,-1,adj,vis,marked,low,tin);
+                dfs(i ,-1,  vis , adj , tin , low , mark);
             }
         }
-        vector<int> ans;
-        for(int i=0;i<V;i++) {
-            if(marked[i]) {
+        for(int i = 0 ; i < V ; i++) {
+            if(mark[i]) {
                 ans.push_back(i);
             }
         }
-        if(ans.size()==0)
-        return {-1};
+        if(ans.size() == 0) {
+            return {-1};
+        }
         return ans;
     }
 };
