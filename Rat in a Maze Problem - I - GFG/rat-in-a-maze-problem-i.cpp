@@ -25,8 +25,9 @@ class Solution{
             if(drow>=0 && dcol >=0 && drow < n && dcol < n && vis[drow][dcol] == 0 && grid[drow][dcol] == 1) {
                 
                 vis[drow][dcol] =1;
-                fun(drow, dcol , grid , vis , n , ans , path+move[i]);
-               
+                path.push_back(move[i]);
+                fun(drow, dcol , grid , vis , n , ans , path);
+                path.pop_back();
                 vis[drow][dcol] =0;
             }
         }
