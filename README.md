@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
