@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -149,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->
