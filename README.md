@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
