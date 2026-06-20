@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
