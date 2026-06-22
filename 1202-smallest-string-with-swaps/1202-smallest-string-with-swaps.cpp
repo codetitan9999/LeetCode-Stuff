@@ -1,61 +1,77 @@
-class DS {
-    public:
-    vector<int> par , size;
-    DS(int n) {
-        par.resize(n+1);
-        size.resize(n+1 , 1);
-        for(int i = 0 ; i <= n ; i++) {
-            par[i] = i;
-        }
-    }
-    int fpar(int u) {
-        if(par[u] == u) return u;
-        return par[u] = fpar(par[u]);
-    }
-    void ubs(int u , int v) {
-        int ul_u = fpar(u);
-        int ul_v = fpar(v);
-        if(ul_u == ul_v)
-        return;
-        if(size[ul_u] > size[ul_v]) {
-            par[ul_v] = ul_u;
-            size[ul_u] += size[ul_v];
-        } else {
-            par[ul_u] = ul_v;
-            size[ul_v] += size[ul_u];
+class DSU {
+public:
+    vector<int> parent;
+    vector<int> size;
+
+    DSU(int n) {
+        parent.resize(n);
+        size.resize(n, 1);
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
         }
     }
 
+    int findParent(int node) {
+        if (parent[node] == node) {
+            return node;
+        }
+
+        return parent[node] = findParent(parent[node]);
+    }
+
+    void unionBySize(int u, int v) {
+        int pu = findParent(u);
+        int pv = findParent(v);
+
+        if (pu == pv) {
+            return;
+        }
+
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
 };
 
 class Solution {
 public:
     string smallestStringWithSwaps(string s, vector<vector<int>>& pairs) {
         int n = s.length();
-        DS ds(n);
-        for(auto it : pairs) {
-            ds.ubs(it[0] , it[1]);
+
+        DSU dsu(n);
+
+        for (auto& pair : pairs) {
+            dsu.unionBySize(pair[0], pair[1]);
         }
-        unordered_map<int , vector<int>> comps;
-        for(int i = 0 ; i < n ; i++) {
-            int ul_p = ds.fpar(i);
-            comps[ul_p].push_back(i);
+
+        unordered_map<int, vector<int>> components;
+
+        for (int i = 0; i < n; i++) {
+            int root = dsu.findParent(i);
+            components[root].push_back(i);
         }
-        for(int i = 0 ; i < n ; i++) {
-            if(ds.fpar(i) == i) {
-                vector<char> chars;
-                vector<int> indices = comps[i];
-                for(auto it : indices) {
-                    chars.push_back(s[it]);
-                }
-                sort(indices.begin(), indices.end());
-                sort(chars.begin(), chars.end());
-                for(int i = 0 ; i < indices.size() ; i++) {
-                    s[indices[i]] = chars[i];
-                }
+
+        for (auto& component : components) {
+            vector<int> indices = component.second;
+            vector<char> chars;
+
+            for (int index : indices) {
+                chars.push_back(s[index]);
+            }
+
+            sort(indices.begin(), indices.end());
+            sort(chars.begin(), chars.end());
+
+            for (int j = 0; j < indices.size(); j++) {
+                s[indices[j]] = chars[j];
             }
         }
+
         return s;
-        
     }
 };
