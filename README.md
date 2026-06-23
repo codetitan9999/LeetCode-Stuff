@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 ## Math
