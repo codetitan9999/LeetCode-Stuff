@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool check(string & s) {
+        if(s.length() >= 3) return false;
         if(s[0] == '0') return false;
         int val = stoi(s);
         if(val >= 1 && val <=26) return true;
@@ -15,7 +16,7 @@ public:
         int ans = 0;
         for(int i = ind ; i < s.length() ; i++) {
             x += s[i];
-            if((i-ind +1 <= 2) &&check(x)) {
+            if(check(x)) {
                 ans += f(i+1 , s, dp);
             } 
         }
