@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
+| [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
