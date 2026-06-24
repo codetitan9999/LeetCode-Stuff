@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
