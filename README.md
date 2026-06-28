@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
