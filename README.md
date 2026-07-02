@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -355,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
