@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
 | [0849-maximize-distance-to-closest-person](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
+| [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Backtracking
@@ -514,4 +517,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
