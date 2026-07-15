@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0377-combination-sum-iv/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
+| [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
+| [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0031-next-permutation/) | Medium |
+| [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
@@ -381,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
+| [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
