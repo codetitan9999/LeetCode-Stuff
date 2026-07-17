@@ -24,10 +24,10 @@ public:
         int n = board.size();
         int m = board[0].size();
         int ind = 0;
+        vector<vector<int>> vis(n , vector<int> ( m , 0));
         for(int i = 0 ; i < n ; i++) {
             for(int j = 0 ; j < m ; j++) {
                 if(board[i][j] == word[ind]) {
-                    vector<vector<int>> vis(n , vector<int> ( m , 0));
                     if(dfs(i , j , ind+1 , board , word , vis)) return true;
                 }
             }
