@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -326,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -422,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -531,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -539,4 +546,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
