@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
