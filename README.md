@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
