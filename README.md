@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
