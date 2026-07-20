@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
