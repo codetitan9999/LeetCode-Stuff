@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0174-dungeon-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
 | [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
