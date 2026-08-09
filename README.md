@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
@@ -715,5 +719,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
