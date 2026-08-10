@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -721,12 +723,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
