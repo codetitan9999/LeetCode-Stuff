@@ -8,7 +8,7 @@ public:
         int ans = 0;
         while(end < n) {
             mp[fruits[end]]++;
-            while(mp.size() > 2) {
+            if(mp.size() > 2) {
                 mp[fruits[start]]--;
                 if(mp[fruits[start]] == 0) mp.erase(fruits[start]);
                 start++;
