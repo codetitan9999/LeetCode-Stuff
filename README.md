@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0841-keys-and-rooms/) | Medium |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
