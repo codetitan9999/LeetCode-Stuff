@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1922-count-good-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
