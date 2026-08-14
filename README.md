@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
