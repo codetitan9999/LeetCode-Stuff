@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -637,10 +638,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -648,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -682,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
@@ -823,4 +828,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
