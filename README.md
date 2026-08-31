@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0377-combination-sum-iv/) | Medium |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0377-combination-sum-iv/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0016-3sum-closest/) | Medium |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
@@ -929,4 +933,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 <!---LeetCode Topics End-->
