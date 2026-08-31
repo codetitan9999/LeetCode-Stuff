@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
+| [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0377-combination-sum-iv/) | Medium |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0135-candy](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
@@ -523,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
@@ -560,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0031-next-permutation/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -581,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
