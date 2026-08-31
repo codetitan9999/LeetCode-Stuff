@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -759,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Backtracking
@@ -839,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
