@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
         int n = nums.size();
-        if(n <= 2) return n;
+        // if(n <= 2) return n;
         vector<int> left(n , 0);
         vector<int> right(n , 0);
         int ans = 1;
