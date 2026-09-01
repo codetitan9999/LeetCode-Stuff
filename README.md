@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -746,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
