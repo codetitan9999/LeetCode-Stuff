@@ -34,7 +34,7 @@ public:
         int lh = leftHeight(root);
         int rh = rightHeight(root);
 
-        if(lh == rh) return (1<<lh) -1;
+        if(lh == rh) return (1LL<<lh) -1;
 
         return 1 + f(root->left) + f(root->right);
     }
