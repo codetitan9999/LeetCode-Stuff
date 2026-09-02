@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
+| [0777-swap-adjacent-in-lr-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0443-string-compression/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
+| [0777-swap-adjacent-in-lr-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
