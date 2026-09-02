@@ -1,39 +1,48 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums, int limit) {
-        int n = nums.size();
-        int i = 0 , j = 0 , ans = 1;
-        int mini = 1e9 , maxi = 0;
-        priority_queue<pair<int,int>>  maxH;
-        priority_queue< pair<int,int>, vector<pair<int,int>> , greater<pair<int,int>>> minH;
+        deque<int> maxD;
+        deque<int> minD;
 
-        while(j < n) {
+        int left = 0;
+        int ans = 0;
 
+        for (int right = 0; right < nums.size(); right++) {
 
-            maxH.push({nums[j] , j});
-            minH.push({nums[j] , j});
-
-            int diff = abs(maxH.top().first - minH.top().first);
-
-            while(diff > limit) {
-                i++;
-
-                while(!maxH.empty() && maxH.top().second < i) {
-                    maxH.pop();
-                }
-
-                while(!minH.empty() && minH.top().second < i) {
-                    minH.pop();
-                }
-                diff = abs(maxH.top().first - minH.top().first);
-
+            // Maintain decreasing deque for maximum
+            while (!maxD.empty() &&
+                   nums[maxD.back()] < nums[right]) {
+                maxD.pop_back();
             }
 
+            maxD.push_back(right);
 
-            if(diff <= limit) ans = max(ans , j - i +1);
-            j++;
+            // Maintain increasing deque for minimum
+            while (!minD.empty() &&
+                   nums[minD.back()] > nums[right]) {
+                minD.pop_back();
+            }
+
+            minD.push_back(right);
+
+            // Shrink invalid window
+            while (nums[maxD.front()] -
+                   nums[minD.front()] > limit) {
+
+                if (maxD.front() == left) {
+                    maxD.pop_front();
+                }
+
+                if (minD.front() == left) {
+                    minD.pop_front();
+                }
+
+                left++;
+            }
+
+            ans = max(ans, right - left + 1);
         }
+
         return ans;
-        
     }
 };
