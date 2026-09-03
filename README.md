@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0012-integer-to-roman/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0071-simplify-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0135-candy](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -923,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
