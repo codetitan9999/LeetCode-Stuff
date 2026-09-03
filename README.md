@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -1031,4 +1033,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
