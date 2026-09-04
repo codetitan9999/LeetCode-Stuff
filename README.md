@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -797,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Data Stream
@@ -1005,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
