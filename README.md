@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0135-candy](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0135-candy/) | Hard |
+| [0137-single-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0164-maximum-gap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0164-maximum-gap/) | Medium |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0137-single-number-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
