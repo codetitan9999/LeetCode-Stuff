@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0179-largest-number/) | Medium |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
