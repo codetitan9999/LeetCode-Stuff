@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-swap-adjacent-in-lr-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1079-letter-tile-possibilities/) | Medium |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
