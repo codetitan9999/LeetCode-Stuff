@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [0986-interval-list-intersections](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0986-interval-list-intersections/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0986-interval-list-intersections](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0986-interval-list-intersections/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
@@ -1055,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0759-employee-free-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0759-employee-free-time/) | Hard |
+| [0986-interval-list-intersections](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0986-interval-list-intersections/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
