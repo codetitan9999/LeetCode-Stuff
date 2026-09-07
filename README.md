@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
 | [0759-employee-free-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0759-employee-free-time/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1109-corporate-flight-bookings/) | Medium |
