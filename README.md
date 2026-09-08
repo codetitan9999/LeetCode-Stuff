@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0260-single-number-iii/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0312-burst-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0312-burst-balloons/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
 | [0174-dungeon-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
+| [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
@@ -826,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
