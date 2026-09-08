@@ -4,7 +4,7 @@ public:
         long long xoro = 0;
         for(auto x : nums) xoro ^= x;
 
-        long long bit = (xoro & ((~xoro)+1));
+        long long bit = xoro & (-xoro);
         cout<<bit<<endl;
 
         long long a = 0 , b = 0;
