@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0135-candy](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0135-candy/) | Hard |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
+| [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -894,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -988,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
