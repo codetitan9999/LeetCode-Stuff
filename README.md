@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Counting
@@ -867,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
