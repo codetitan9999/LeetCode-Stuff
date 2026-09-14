@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1927-sum-game/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -620,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -745,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
