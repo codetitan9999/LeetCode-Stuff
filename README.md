@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
 | [0282-expression-add-operators](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0282-expression-add-operators/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0443-string-compression/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0904-fruit-into-baskets/) | Medium |
