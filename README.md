@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -738,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
@@ -1242,4 +1244,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0277-find-the-celebrity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0277-find-the-celebrity/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 <!---LeetCode Topics End-->
