@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
+| [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2762-continuous-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2762-continuous-subarrays/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
