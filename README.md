@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2762-continuous-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2762-continuous-subarrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2762-continuous-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2762-continuous-subarrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
