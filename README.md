@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1086-high-five](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1086-high-five/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
