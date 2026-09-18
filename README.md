@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -809,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
