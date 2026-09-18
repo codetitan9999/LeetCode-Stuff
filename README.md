@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
@@ -645,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -746,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
 | [1086-high-five](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1086-high-five/) | Easy |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -1185,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
