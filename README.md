@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -852,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3731-find-missing-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
