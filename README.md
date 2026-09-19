@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3026-maximum-good-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3026-maximum-good-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -731,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3026-maximum-good-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
