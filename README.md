@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
