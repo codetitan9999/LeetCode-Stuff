@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1615-maximal-network-rank](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1615-maximal-network-rank/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -804,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
@@ -957,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -1230,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
