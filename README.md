@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0986-interval-list-intersections](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0986-interval-list-intersections/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1014-best-sightseeing-pair](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
