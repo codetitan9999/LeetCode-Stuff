@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0218-the-skyline-problem/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0260-single-number-iii/) | Medium |
+| [0286-walls-and-gates](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0286-walls-and-gates/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0312-burst-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0312-burst-balloons/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0261-graph-valid-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0261-graph-valid-tree/) | Medium |
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
+| [0286-walls-and-gates](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0286-walls-and-gates/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
+| [0286-walls-and-gates](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0286-walls-and-gates/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
