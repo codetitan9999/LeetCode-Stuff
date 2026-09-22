@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0312-burst-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0312-burst-balloons/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -770,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
