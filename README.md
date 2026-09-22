@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
+| [0752-open-the-lock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0752-open-the-lock/) | Medium |
 | [0759-employee-free-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0759-employee-free-time/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0752-open-the-lock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0752-open-the-lock/) | Medium |
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
+| [0752-open-the-lock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0752-open-the-lock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
@@ -1399,4 +1403,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
