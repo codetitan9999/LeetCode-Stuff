@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1918-kth-smallest-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1918-kth-smallest-subarray-sum/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -896,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -944,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
