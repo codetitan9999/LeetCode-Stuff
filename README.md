@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1086-high-five](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1086-high-five/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -938,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1086-high-five](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1086-high-five/) | Easy |
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -1154,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -1175,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
