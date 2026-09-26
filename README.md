@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-swap-adjacent-in-lr-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0784-letter-case-permutation/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -1157,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1374,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
