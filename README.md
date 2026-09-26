@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1762-buildings-with-an-ocean-view](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
