@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -999,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -1047,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0836-rectangle-overlap/) | Easy |
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Shortest Path
