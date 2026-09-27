@@ -1005,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0282-expression-add-operators/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
+| [0593-valid-square](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0836-rectangle-overlap/) | Easy |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0593-valid-square](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0593-valid-square/) | Medium |
 | [0836-rectangle-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0836-rectangle-overlap/) | Easy |
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
