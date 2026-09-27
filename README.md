@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1563-stone-game-v/) | Hard |
@@ -1183,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1762-buildings-with-an-ocean-view](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -1280,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1762-buildings-with-an-ocean-view](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
