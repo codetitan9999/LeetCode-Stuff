@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 | [2029-stone-game-ix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2029-stone-game-ix/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-erasure-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 | [2029-stone-game-ix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2029-stone-game-ix/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1105,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0901-online-stock-span/) | Medium |
+| [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -1138,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0901-online-stock-span/) | Medium |
+| [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
