@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-sentence-similarity-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -1153,6 +1154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
@@ -1198,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1762-buildings-with-an-ocean-view](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
