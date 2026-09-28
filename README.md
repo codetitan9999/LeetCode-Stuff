@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1152,6 +1155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -1389,12 +1393,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
