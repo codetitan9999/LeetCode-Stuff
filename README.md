@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -648,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -1447,6 +1450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
