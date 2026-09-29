@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0282-expression-add-operators](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0443-string-compression/) | Medium |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -1168,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -1228,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0678-valid-parenthesis-string/) | Medium |
