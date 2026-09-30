@@ -495,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -1485,6 +1488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
+| [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
