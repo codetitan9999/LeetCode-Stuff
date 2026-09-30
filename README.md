@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -724,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Counting
@@ -1207,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
