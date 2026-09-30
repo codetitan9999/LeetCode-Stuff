@@ -513,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
@@ -1198,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
@@ -1471,6 +1474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
