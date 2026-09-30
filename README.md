@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0261-graph-valid-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0261-graph-valid-tree/) | Medium |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
@@ -1194,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
@@ -1486,6 +1489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
