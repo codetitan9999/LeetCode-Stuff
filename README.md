@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1048,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1226,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
