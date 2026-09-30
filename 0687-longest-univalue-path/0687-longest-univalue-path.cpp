@@ -29,14 +29,13 @@ public:
             maxi = max(maxi , r);
             val += r;
         }
-        res = max(res , val+1);
+        res = max(res , val);
         return maxi+1;
 
     }
     int longestUnivaluePath(TreeNode* root) {
-        if(!root) return 0;
         f(root);
-        return res-1;
+        return res;
         
     }
 };
