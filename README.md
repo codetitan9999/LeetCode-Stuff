@@ -723,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0437-path-sum-iii/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -1211,6 +1212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -1238,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0437-path-sum-iii/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
