@@ -1,38 +1,22 @@
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* left;
-    Node* right;
-    Node* parent;
-};
-*/
-
 class Solution {
 public:
-    Node* f(Node* node) {
-        while(node->parent) {
+    Node* inorderSuccessor(Node* node) {
+
+        // Case 1: Right subtree exists
+        if (node->right) {
+            Node* curr = node->right;
+
+            while (curr->left)
+                curr = curr->left;
+
+            return curr;
+        }
+
+        // Case 2: Move upward
+        while (node->parent && node == node->parent->right) {
             node = node->parent;
         }
-        return node;
-    }
-    Node* inorderSuccessor(Node* node) {
-        Node* root = f(node);
 
-        Node* curr = root;
-        Node* ans = NULL;
-
-
-        while(curr) {
-            if(curr->val > node->val) {
-                ans = curr;
-                curr = curr->left;
-            } else {
-                curr = curr->right;
-            }
-        }
-        return ans;
-        
+        return node->parent;
     }
 };
