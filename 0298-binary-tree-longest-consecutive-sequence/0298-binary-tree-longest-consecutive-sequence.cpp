@@ -11,27 +11,28 @@
  */
 class Solution {
 public:
-    int ans = 0;
+    int maxi = 0;
     int f(TreeNode* root) {
         if(!root) return 0;
-
         int left = f(root->left);
-        int right= f(root->right);
+        int right = f(root->right);
 
-        int maxi = 1;
+        int cnt = 0;
 
         if(root->left && root->left->val == root->val+1) {
-            maxi = max(maxi , 1+left);
+            cnt = max(cnt , left);
         }
 
-        if(root->right && root->right->val == root->val +1) {
-            maxi = max(maxi , 1+right);
+        if(root->right && root->right->val == root->val+1) {
+            cnt = max(cnt , right);
         }
-        ans = max(maxi , ans);
-        return maxi;
+        maxi = max(maxi , cnt+1);
+
+        return cnt+1;
     }
     int longestConsecutive(TreeNode* root) {
         f(root);
-        return ans;
+        return maxi;
+        
     }
 };
