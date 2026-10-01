@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
@@ -721,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
@@ -1197,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -1223,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
