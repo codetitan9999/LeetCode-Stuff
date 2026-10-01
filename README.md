@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0261-graph-valid-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0261-graph-valid-tree/) | Medium |
+| [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
@@ -712,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
+| [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
@@ -821,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -1200,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -1218,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
+| [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
