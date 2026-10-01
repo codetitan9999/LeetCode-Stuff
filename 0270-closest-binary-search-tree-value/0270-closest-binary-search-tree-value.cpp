@@ -1,38 +1,23 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     int closestValue(TreeNode* root, double target) {
+        int ans = root->val;
 
-        double ans = 0 , diff = 1e9+7;
+        while (root) {
+            double currDiff = abs(root->val - target);
+            double bestDiff = abs(ans - target);
 
-        TreeNode* curr = root;
-        while(curr) {
-            if((double)curr->val == target) return curr->val;
-            double cdiff = fabs(target - curr->val);
-            if(cdiff < diff) {
-                diff = cdiff;
-                ans = curr->val;
-            } else if(cdiff == diff) {
-                ans = min(ans , (double)curr->val);
+            if (currDiff < bestDiff ||
+                (currDiff == bestDiff && root->val < ans)) {
+                ans = root->val;
             }
 
-            if((double)(curr->val ) > target) {
-                curr = curr->left;
-            } else {
-                curr = curr->right;
-            }
+            if (target < root->val)
+                root = root->left;
+            else
+                root = root->right;
         }
+
         return ans;
-        
     }
 };
