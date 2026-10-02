@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0759-employee-free-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0759-employee-free-time/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0815-bus-routes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0815-bus-routes/) | Hard |
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0877-stone-game/) | Medium |
