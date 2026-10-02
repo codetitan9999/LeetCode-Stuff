@@ -635,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -991,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -1178,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
