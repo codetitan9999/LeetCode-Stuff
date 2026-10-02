@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0071-simplify-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0071-simplify-path/) | Medium |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
@@ -1351,6 +1353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0079-word-search/) | Medium |
@@ -1576,6 +1579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0856-score-of-parentheses/) | Medium |
