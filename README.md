@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
@@ -1308,6 +1310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
