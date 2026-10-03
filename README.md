@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3824-minimum-k-to-reduce-array-within-limit/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3840-house-robber-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3840-house-robber-v/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
+| [3840-house-robber-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3840-house-robber-v/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
