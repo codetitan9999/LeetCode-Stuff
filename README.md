@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
+| [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -568,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
+| [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
@@ -600,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
@@ -646,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
+| [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
