@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
@@ -1035,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
@@ -1708,6 +1712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
