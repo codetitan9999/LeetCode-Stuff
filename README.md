@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -666,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
@@ -1044,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
@@ -1240,6 +1244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
