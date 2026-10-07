@@ -10,7 +10,7 @@ public:
                 if(dist[it] > 1+ dist[val]) {
                     dist[it] = dist[val]+1;
                     q.push(it);
-                }
+                } 
             }
         }
         return dist[n-1];
