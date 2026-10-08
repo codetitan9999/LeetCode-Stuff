@@ -621,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3608-minimum-time-for-k-connected-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3608-minimum-time-for-k-connected-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3608-minimum-time-for-k-connected-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3824-minimum-k-to-reduce-array-within-limit/) | Medium |
@@ -1164,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3608-minimum-time-for-k-connected-components](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3731-find-missing-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
