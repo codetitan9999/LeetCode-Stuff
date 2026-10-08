@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
+| [1136-parallel-courses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1136-parallel-courses/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -1064,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
 | [0851-loud-and-rich](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0851-loud-and-rich/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1136-parallel-courses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1136-parallel-courses/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -1749,6 +1751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
 | [0851-loud-and-rich](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0851-loud-and-rich/) | Medium |
+| [1136-parallel-courses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1136-parallel-courses/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
