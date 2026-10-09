@@ -667,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2077-paths-in-maze-that-lead-to-same-room](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2077-paths-in-maze-that-lead-to-same-room/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
