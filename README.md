@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0494-target-sum/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
@@ -530,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -635,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0277-find-the-celebrity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0277-find-the-celebrity/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -1028,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -1256,6 +1262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -1615,6 +1622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -1777,4 +1785,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
+## Heuristic Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
+## A* Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 <!---LeetCode Topics End-->
