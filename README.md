@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1813-sentence-similarity-iii/) | Medium |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -661,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1615-maximal-network-rank](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1615-maximal-network-rank/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -1790,6 +1794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 ## Heuristic Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1798,4 +1803,36 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
+## Maximum Flow
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## Maximum Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## Edmonds–Karp Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## MPM Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## Push-Relabel Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## Matching (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## Flow Network
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+## Dinic's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 <!---LeetCode Topics End-->
