@@ -683,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
 | [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
@@ -1068,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -1230,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -1270,6 +1273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -1536,6 +1540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
