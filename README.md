@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0939-minimum-area-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
@@ -557,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-leaf-similar-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -614,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0839-similar-string-groups](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
@@ -653,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0851-loud-and-rich](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
