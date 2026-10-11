@@ -570,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -840,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -1404,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
