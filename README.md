@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -1405,6 +1408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
