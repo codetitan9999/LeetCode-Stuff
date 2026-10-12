@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2473-minimum-cost-to-buy-apples](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2473-minimum-cost-to-buy-apples/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2560-house-robber-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2560-house-robber-iv/) | Medium |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2360-longest-cycle-in-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
+| [2473-minimum-cost-to-buy-apples](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2473-minimum-cost-to-buy-apples/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
@@ -1097,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2473-minimum-cost-to-buy-apples](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2473-minimum-cost-to-buy-apples/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
@@ -1313,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2473-minimum-cost-to-buy-apples](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2473-minimum-cost-to-buy-apples/) | Medium |
 | [2714-find-shortest-path-with-k-hops](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2714-find-shortest-path-with-k-hops/) | Hard |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
