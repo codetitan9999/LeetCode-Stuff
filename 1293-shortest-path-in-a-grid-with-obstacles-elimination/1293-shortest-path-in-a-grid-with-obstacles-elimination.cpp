@@ -7,15 +7,15 @@ public:
         int m = grid[0].size();
 
         vector<vector<vector<int>>> dist(n , vector<vector<int>> (m , vector<int> (k+1 , 1e9)));
-        priority_queue<vector<int> , vector<vector<int>> , greater<vector<int>>> pq;
+        queue<vector<int>> pq;
         pq.push({0 , 0 ,  0 , 0 });
         dist[0][0][0] = 0;
 
         while(!pq.empty()) {
-            int steps = pq.top()[0];
-            int removed = pq.top()[1];
-            int row = pq.top()[2];
-            int col = pq.top()[3];
+            int steps = pq.front()[0];
+            int removed = pq.front()[1];
+            int row = pq.front()[2];
+            int col = pq.front()[3];
             pq.pop();
         
             if(steps != dist[row][col][removed]) continue;
