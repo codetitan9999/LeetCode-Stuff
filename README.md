@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -984,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2560-house-robber-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2560-house-robber-iv/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
@@ -1177,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -1236,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
