@@ -519,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
@@ -945,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1927-sum-game/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2029-stone-game-ix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
