@@ -567,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
 | [0312-burst-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0312-burst-balloons/) | Hard |
+| [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -855,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+| [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -1426,6 +1429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
+| [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -1450,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+| [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0337-house-robber-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0337-house-robber-iii/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -1771,6 +1776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
