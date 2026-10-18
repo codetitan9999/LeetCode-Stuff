@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-optimize-water-distribution-in-a-village](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1168-optimize-water-distribution-in-a-village/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
@@ -815,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -894,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
@@ -1312,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
@@ -1438,6 +1443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1487,6 +1493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
@@ -1614,6 +1621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0139-word-break/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1623,6 +1631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
@@ -1676,6 +1685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -1970,4 +1980,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1168-optimize-water-distribution-in-a-village/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
