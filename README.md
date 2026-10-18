@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1730-shortest-path-to-get-food](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1762-buildings-with-an-ocean-view](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1730-shortest-path-to-get-food](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1730-shortest-path-to-get-food](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
