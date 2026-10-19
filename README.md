@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2029-stone-game-ix/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
@@ -1017,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1918-kth-smallest-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1918-kth-smallest-subarray-sum/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2560-house-robber-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2560-house-robber-iv/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -1272,6 +1274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
