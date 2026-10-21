@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
