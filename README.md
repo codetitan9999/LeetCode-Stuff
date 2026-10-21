@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0212-word-search-ii/) | Hard |
 | [0218-the-skyline-problem](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0218-the-skyline-problem/) | Hard |
+| [0228-summary-ranges](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0228-summary-ranges/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0260-single-number-iii/) | Medium |
 | [0286-walls-and-gates](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0286-walls-and-gates/) | Medium |
