@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0697-degree-of-an-array/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0697-degree-of-an-array/) | Easy |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
 | [0752-open-the-lock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0767-reorganize-string/) | Medium |
