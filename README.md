@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0409-longest-palindrome/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -1203,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0277-find-the-celebrity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0277-find-the-celebrity/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
