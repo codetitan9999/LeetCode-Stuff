@@ -2,38 +2,24 @@ class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int , int> pp;
         int degree = 0;
-        for(auto it : nums) {
-            pp[it]++;
-            degree = max(degree , pp[it]);
-        }
-
-        int i = 0, j = 0;
-        unordered_map<int , int> mp;
-        int deg = 0;
+        unordered_map<int,int> first , freq;
         int ans = n;
-        while(j < n) {
-            mp[nums[j]]++;
-            deg = max(deg , mp[nums[j]]);
-            while(i <= j && deg > degree) {
-                mp[nums[i]]--;
-                deg = 0;
-                for(auto it : mp) deg = max(deg , it.second);
-                i++;
-            }
+        for(int i = 0 ; i < n ; i++) {
+            if(!first.count(nums[i])) {
+                first[nums[i]] = i;
+            } 
 
-            while(i <= j && deg == degree) {
-                ans = min(ans , j-i+1);
-                mp[nums[i]]--;
-                deg = 0;
-                for(auto it : mp) deg = max(deg , it.second);
-                i++;
-            }
+            freq[nums[i]]++;
 
-            j++;
+            if(degree < freq[nums[i]]) {
+                degree = freq[nums[i]];
+                ans = i - first[nums[i]] +1;
+            } else if(degree  ==  freq[nums[i]]) {
+                ans = min(ans , i - first[nums[i]] +1);
+            }
         }
         return ans;
-
+        
     }
 };
