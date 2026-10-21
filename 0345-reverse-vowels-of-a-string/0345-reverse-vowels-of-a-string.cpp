@@ -6,21 +6,19 @@ public:
         return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
     }
     string reverseVowels(string s) {
-        string temp  = "";
+        int n = s.length();
+        int p1 = 0 , p2 = n-1;
 
-        for(char ch : s) {
-            if(isVowel(ch)) {
-                temp = ch + temp;
-            }
-        }
-        int ind = 0;
-        for(int i = 0 ; i < s.length() ; i++) {
-            if(isVowel(s[i])) {
-                s[i] = temp[ind++];
+
+        while(p1 < p2) {
+            if(!isVowel(s[p1])) p1++;
+            else if(!isVowel(s[p2])) p2--;
+            else {
+                swap(s[p1] , s[p2]);
+                p1++;
+                p2--;
             }
         }
         return s;
-        
-        
     }
 };
