@@ -736,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1615-maximal-network-rank](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1615-maximal-network-rank/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -839,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -1164,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
@@ -1200,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1136-parallel-courses](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1136-parallel-courses/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1462-course-schedule-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1462-course-schedule-iv/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
@@ -1402,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -1786,6 +1791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
