@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0494-target-sum/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0443-string-compression/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -593,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
@@ -710,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0277-find-the-celebrity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0277-find-the-celebrity/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0765-couples-holding-hands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0765-couples-holding-hands/) | Hard |
@@ -1144,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
@@ -1403,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -1787,6 +1795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -1967,10 +1976,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heuristic Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 ## A* Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 ## Maximum Flow
 | Problem Name | Difficulty |
