@@ -12,22 +12,23 @@ public:
             adj[v].push_back(u);
         }
         queue<int> q;
-        vector<int> vis(n , 0);
+
         for(int i = 0 ; i < n ; i++) {
-            if(indegree[i] <= 1 && ! vis[i]) {
+            if(indegree[i] <= 1 ) {
                 q.push(i);
-                vis[i] = 1;
             }
         }
 
         while(!q.empty()) {
             int node = q.front();
             q.pop();
+            indegree[node] = 0;
             for(auto it : adj[node]) {
+                if(indegree[it] == 0) continue;
                 indegree[it]--;
-                if(indegree[it] <= 1 && !vis[it]) {
+                if(indegree[it] <= 1) {
                     q.push(it);
-                    vis[it] = 1;
+
                 }
             }
         }
