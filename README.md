@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2204-distance-to-a-cycle-in-undirected-graph/) | Hard |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1820-maximum-number-of-accepted-invitations/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -755,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2077-paths-in-maze-that-lead-to-same-room/) | Medium |
+| [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
@@ -1314,6 +1318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
