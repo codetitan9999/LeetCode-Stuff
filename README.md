@@ -561,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2409-count-days-spent-together](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -1379,6 +1380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2029-stone-game-ix/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2409-count-days-spent-together](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2409-count-days-spent-together/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
