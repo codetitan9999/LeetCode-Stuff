@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1014-best-sightseeing-pair](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
+| [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
+| [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0968-binary-tree-cameras](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
