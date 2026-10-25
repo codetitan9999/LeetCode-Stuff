@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -698,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1135-connecting-cities-with-minimum-cost](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1168-optimize-water-distribution-in-a-village/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
