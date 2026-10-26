@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1563-stone-game-v/) | Hard |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1462-course-schedule-iv/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1730-shortest-path-to-get-food/) | Medium |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1504-count-submatrices-with-all-ones](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
@@ -2080,4 +2084,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
+## Articulation Point
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 <!---LeetCode Topics End-->
