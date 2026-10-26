@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1196-how-many-apples-can-you-put-into-the-basket/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1245-tree-diameter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1245-tree-diameter/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1102-path-with-maximum-minimum-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1102-path-with-maximum-minimum-value/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1260-shift-2d-grid/) | Easy |
@@ -865,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
