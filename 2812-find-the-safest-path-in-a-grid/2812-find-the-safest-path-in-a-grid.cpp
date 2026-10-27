@@ -1,60 +1,61 @@
 class Solution {
-    static constexpr int dirs[4][2] = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-
 public:
-    int maximumSafenessFactor(vector<vector<int>>& A) {
-        if (A[0][0] || A.back().back())
-            return 0;
+    vector<int> delrow = {-1 , 0 , 1  , 0};
+    vector<int> delcol = {0 , 1 , 0 , -1};
+    int maximumSafenessFactor(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
 
-        int n = A.size();
-        queue<pair<int, int>> q;
+        vector<vector<int>> mat(n , vector<int> (m , 1e9));
+        queue<pair<int,int>> q;
 
-        for (int i = 0; i < n; i++)
-            for (int j = 0; j < n; j++)
-                if (A[i][j])
-                    q.push({i, j});
+        for(int i = 0 ; i < n ; i++) {
+            for(int j = 0 ; j < m ; j++) {
+                if(grid[i][j] == 1) {
+                    q.push({i , j});
+                    mat[i][j] = 0;
+                }
+            }
+        }
 
-        while (q.size()) {
-            auto [i, j] = q.front();
+        while(!q.empty()) {
+            auto [row , col] = q.front();
             q.pop();
+            for(int i = 0 ; i < 4 ; i++) {
+                int drow = row + delrow[i];
+                int dcol = col + delcol[i];
+                if(drow < 0 || dcol < 0 || drow >= n || dcol >= m || mat[drow][dcol] != 1e9) continue;
 
-            int v = A[i][j];
-
-            for (auto& d : dirs) {
-                int x = i + d[0];
-                int y = j + d[1];
-
-                if (min(x, y) >= 0 && max(x, y) < n && !A[x][y]) {
-                    A[x][y] = v + 1;
-                    q.push({x, y});
-                }
+                mat[drow][dcol] = 1 + mat[row][col];
+                q.push({drow , dcol});
             }
         }
 
+        priority_queue<tuple<int,int,int>> pq;
+        vector<vector<int>> dist(n , vector<int> (m , INT_MIN));
 
+        dist[0][0] = mat[0][0];
+        pq.push({dist[0][0] , 0 , 0});
 
-        priority_queue<tuple<int, int, int>> pq;
-
-        pq.push({A[0][0], 0, 0});
-
-        while (pq.size()) {
-            auto [sf, i, j] = pq.top();
+        while(!pq.empty()) {
+            auto [d , row , col] = pq.top();
             pq.pop();
-
-            if (i == n - 1 && j == n - 1)
-                return sf - 1;
-
-            for (auto& d : dirs) {
-                int x = i + d[0];
-                int y = j + d[1];
-
-                if (min(x, y) >= 0 && max(x, y) < n && A[x][y] > 0) {
-                    pq.push({min(sf, A[x][y]), x, y});
-                    A[x][y] *= -1;
+            if(dist[row][col] != d) continue;
+            if(row == n-1 && col == m-1) return d;
+            for(int i = 0 ; i < 4 ; i++) {
+                int drow = row + delrow[i];
+                int dcol = col + delcol[i];
+                if(drow < 0 || dcol < 0 || drow >= n || dcol >= m ) continue;
+                int newVal = min(d , mat[drow][dcol]);
+                if(newVal > dist[drow][dcol]) {
+                    dist[drow][dcol] = newVal;
+                    pq.push({newVal , drow , dcol});
                 }
             }
         }
+        return 0;
 
-        return A.back().back() - 1;
+
+        
     }
 };
