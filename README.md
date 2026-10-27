@@ -729,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
+| [2076-process-restricted-friend-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -784,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2076-process-restricted-friend-requests](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2077-paths-in-maze-that-lead-to-same-room/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
