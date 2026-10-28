@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0666-path-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0666-path-sum-iv/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0697-degree-of-an-array/) | Easy |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
+| [0666-path-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0666-path-sum-iv/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0697-degree-of-an-array/) | Easy |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
@@ -629,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0666-path-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0666-path-sum-iv/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
@@ -942,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0666-path-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0666-path-sum-iv/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -1565,6 +1569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0666-path-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0666-path-sum-iv/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
