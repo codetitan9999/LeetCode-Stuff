@@ -859,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0494-target-sum/) | Medium |
+| [0576-out-of-boundary-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0740-delete-and-earn/) | Medium |
