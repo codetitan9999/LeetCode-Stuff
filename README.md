@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0444-sequence-reconstruction](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0444-sequence-reconstruction/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0465-optimal-account-balancing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0465-optimal-account-balancing/) | Hard |
@@ -1398,6 +1399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0282-expression-add-operators/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0593-valid-square](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
