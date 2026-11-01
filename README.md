@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0502-ipo](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0502-ipo/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0611-valid-triangle-number](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
 | [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0621-task-scheduler/) | Medium |
 | [0666-path-sum-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0666-path-sum-iv/) | Medium |
