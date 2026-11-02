@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -998,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1564,6 +1567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-binary-search-tree-iterator-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1626,6 +1630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
