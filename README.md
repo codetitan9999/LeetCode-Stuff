@@ -635,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0463-island-perimeter/) | Easy |
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
 | [0499-the-maze-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0499-the-maze-iii/) | Hard |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0505-the-maze-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0505-the-maze-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
@@ -955,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
@@ -1563,6 +1565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -1598,6 +1601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0510-inorder-successor-in-bst-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
