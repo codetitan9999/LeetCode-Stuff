@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0218-the-skyline-problem/) | Hard |
 | [0228-summary-ranges](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0228-summary-ranges/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0260-single-number-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0260-single-number-iii/) | Medium |
 | [0286-walls-and-gates](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0286-walls-and-gates/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -942,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
@@ -1556,6 +1558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0333-largest-bst-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0333-largest-bst-subtree/) | Medium |
@@ -1583,6 +1586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0250-count-univalue-subtrees/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0257-binary-tree-paths/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
@@ -1681,6 +1685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0272-closest-binary-search-tree-value-ii/) | Hard |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
@@ -1807,6 +1812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0085-maximal-rectangle/) | Hard |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0853-car-fleet](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0853-car-fleet/) | Medium |
@@ -1833,6 +1839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0044-wildcard-matching/) | Hard |
 | [0224-basic-calculator](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0224-basic-calculator/) | Hard |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0776-split-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0776-split-bst/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
