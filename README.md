@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1872-stone-game-viii/) | Hard |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
 | [1918-kth-smallest-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1918-kth-smallest-subarray-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -999,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -1579,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-binary-search-tree-iterator-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -1641,6 +1644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -1858,6 +1862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0456-132-pattern](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2762-continuous-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2762-continuous-subarrays/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3607-power-grid-maintenance/) | Medium |
