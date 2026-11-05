@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -1109,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1187-make-array-strictly-increasing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1214-two-sum-bsts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1214-two-sum-bsts/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -1324,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0986-interval-list-intersections](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0986-interval-list-intersections/) | Medium |
 | [1214-two-sum-bsts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1214-two-sum-bsts/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
@@ -1378,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
