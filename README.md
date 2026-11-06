@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2762-continuous-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -1169,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2762-continuous-subarrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2762-continuous-subarrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1404,6 +1407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
