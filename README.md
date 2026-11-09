@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0465-optimal-account-balancing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
+| [0487-max-consecutive-ones-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0490-the-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0490-the-maze/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0494-target-sum/) | Medium |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0465-optimal-account-balancing](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0486-predict-the-winner/) | Medium |
+| [0487-max-consecutive-ones-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0494-target-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0647-palindromic-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0647-palindromic-substrings/) | Medium |
@@ -1150,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0487-max-consecutive-ones-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0713-subarray-product-less-than-k/) | Medium |
