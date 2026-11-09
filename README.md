@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -1268,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2473-minimum-cost-to-buy-apples](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2473-minimum-cost-to-buy-apples/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
@@ -1406,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2092-find-all-people-with-secret](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -1686,6 +1690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
