@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1918-kth-smallest-subarray-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1918-kth-smallest-subarray-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -1265,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
