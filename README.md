@@ -605,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2409-count-days-spent-together/) | Easy |
@@ -1706,6 +1707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
