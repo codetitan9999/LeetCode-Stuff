@@ -611,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -940,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2560-house-robber-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2560-house-robber-iv/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3205-maximum-array-hopping-score-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3205-maximum-array-hopping-score-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -1365,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
