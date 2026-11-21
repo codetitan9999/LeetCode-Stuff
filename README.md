@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3481-apply-substitutions](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3481-apply-substitutions/) | Medium |
 | [3493-properties-graph](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3493-properties-graph/) | Medium |
@@ -1032,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3831-median-of-a-binary-search-tree-level/) | Medium |
