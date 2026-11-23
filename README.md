@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1220,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1485,6 +1487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0963-minimum-area-rectangle-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1510-stone-game-iv/) | Hard |
@@ -1611,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1586-binary-search-tree-iterator-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
 | [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 | [2080-range-frequency-queries](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2080-range-frequency-queries/) | Medium |
@@ -1710,6 +1714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2013-detect-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/2013-detect-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
