@@ -10,52 +10,22 @@
  * };
  */
 class Solution {
+    unordered_set<TreeNode*> vis;
 public:
-    TreeNode* f(TreeNode* root , int val) {
-        if(!root || root->val == val) return NULL;
+    TreeNode* f(TreeNode* root) {
+        if(!root || (root->right && vis.count(root->right))) return NULL;
 
-        root->left = f(root->left , val);
-        root->right = f(root->right , val);
+        vis.insert(root);
 
+        root->right = f(root->right);
+        root->left = f(root->left);
         return root;
-
     }
     TreeNode* correctBinaryTree(TreeNode* root) {
-
-
-        queue<pair<TreeNode*, int>> q;
-
-        q.push({root , -1});
-
-        unordered_set<int> vis;
-        int to_del = INT_MAX;
-        while(!q.empty()) {
-            TreeNode* node = q.front().first;
-            int p = q.front().second;
-            
-            q.pop();
-
-            if(vis.count(node->val)) {
-                to_del = p;
-                break;
-            }
-
-            vis.insert(node->val);
-
-            if(node->left) {
-                q.push({node->left , node->val});
-            }
-
-            if(node->right) {
-                q.push({node->right , node->val});
-            }
-
-
-
-        }
-
-        f(root , to_del);
+        vis.clear();
+        f(root);
         return root;
+        
         
     }
 };
