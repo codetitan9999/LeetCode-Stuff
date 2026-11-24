@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
@@ -1030,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
@@ -1703,6 +1707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1602-find-nearest-right-node-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [1740-find-distance-in-a-binary-tree](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1740-find-distance-in-a-binary-tree/) | Medium |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1902-depth-of-bst-given-insertion-order/) | Medium |
