@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0909-snakes-and-ladders](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0864-shortest-path-to-get-all-keys](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0886-possible-bipartition](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0886-possible-bipartition/) | Medium |
+| [0909-snakes-and-ladders](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [0909-snakes-and-ladders](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0980-unique-paths-iii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/0980-unique-paths-iii/) | Hard |
 | [1034-coloring-a-border](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
