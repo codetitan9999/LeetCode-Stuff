@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -975,6 +976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3700-number-of-zigzag-arrays-ii](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3840-house-robber-v](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3840-house-robber-v/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1128,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/codetitan9999/LeetCode-Stuff/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
